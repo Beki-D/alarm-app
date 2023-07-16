@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alarm-app/static/css/main.f3fa5491.css",
+    "main.js": "/alarm-app/static/js/main.bffa9cc4.js",
+    "index.html": "/alarm-app/index.html",
+    "main.f3fa5491.css.map": "/alarm-app/static/css/main.f3fa5491.css.map",
+    "main.bffa9cc4.js.map": "/alarm-app/static/js/main.bffa9cc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3fa5491.css",
+    "static/js/main.bffa9cc4.js"
+  ]
+}
